@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.*
+
+# Private keys and certificates
+*.pem
+*.key
+*.ppk
+
+# SSH files
+.ssh/
+
+# Dependencies and logs
+node_modules/
+*.log
